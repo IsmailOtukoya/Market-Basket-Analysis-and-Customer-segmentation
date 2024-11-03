@@ -1,6 +1,6 @@
 # Market-Basket-Analysis-and-Customer-segmentation
 
-# Market Basket Analysis and Customer Segmentation Dashboard
+
 
 # Project Overview
 
